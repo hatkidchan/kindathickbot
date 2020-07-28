@@ -26,3 +26,6 @@ Karlson on steam (I'm just sayin').
 
 ~~Frick billy~~
 
+## Shitty laggy demo of bot:
+[![Watch here, duh](https://img.youtube.com/vi/VsSqO0fYJ0Y/maxresdefault.jpg)](https://youtu.be/VsSqO0fYJ0Y)
+

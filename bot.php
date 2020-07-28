@@ -39,6 +39,7 @@ elseif(isset($update['message']))
             'parse_mode' => 'html'
         ]);
     }
+    // TODO: add thicc image processing
 }
 
 

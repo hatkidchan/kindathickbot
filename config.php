@@ -25,9 +25,8 @@ $thick_variants = [
 
 // Response to any text message
 $response_text = <<<EOF
-What's up, Boners?
-This freaking bot (me) can send voice messages with Dani's awesome THICC
-phrases. Just use me anywhere via inline.
+What's up, Boner?
+This freaking bot (me) can send voice messages with Dani's awesome THICC phrases. Just use me anywhere via inline.
 Also, you can use this bot only if you're wishlisted Karlson on Steam (actually no).
 By the way, subscribe to <a href="https://youtube.com/danidev">Dani</a> on YouTube.
 
