@@ -28,6 +28,18 @@ if(isset($update['inline_query']))
     }
     answer_query($query_id, $results);
 }
+elseif(isset($update['message']))
+{
+    $message = $update['message'];
+    if(isset($message['text']))
+    {
+        tg_request('sendMessage', [
+            'chat_id' => $message['chat']['id'],
+            'text' => GENERIC_RESPONSE_TEXT,
+            'parse_mode' => 'html'
+        ]);
+    }
+}
 
 
 ?>
